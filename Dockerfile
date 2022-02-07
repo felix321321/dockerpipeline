@@ -1,4 +1,4 @@
-FROM Mongo
+FROM mongo
 
 COPY entrypoint.sh /entrypoint.sh
 
